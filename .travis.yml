@@ -4,4 +4,4 @@ script:
  - g++ intfuncs.cpp intfuncs_app.cpp
  - ./a.out
  - g++ min.cpp
- - ./a.ou
+ - ./a.out
