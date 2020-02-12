@@ -2,6 +2,6 @@ language: c++
 
 script:
  - g++ intfuncs.cpp intfuncs_app.cpp
- - ./a.out
+ - ./a.out < testing1.txt
  - g++ min.cpp
- - ./a.ou
+ - ./a.out < testing2.txt
